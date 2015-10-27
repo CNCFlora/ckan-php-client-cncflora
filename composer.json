@@ -1,6 +1,6 @@
 {
-  "name": "gsa/ckan-php-client",
-  "description": "CKAN php client by GSA",
+  "name": "cncflora/ckan-php-client-cncflora",
+  "description": "CKAN php client by GSA and modified by Laura Moraes (CNCFlora)",
   "minimum-stability": "dev",
   "license": "GPL-3.0+",
   "type": "library",
